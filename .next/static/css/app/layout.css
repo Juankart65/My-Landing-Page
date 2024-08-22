@@ -1220,6 +1220,10 @@ main {
     margin-top: 2.5rem;
   }
 
+  .md\:mb-1 {
+    margin-bottom: 0.25rem;
+  }
+
   .md\:inline-block {
     display: inline-block;
   }
