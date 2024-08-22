@@ -124,10 +124,10 @@ export const dataPortfolio = [
 
 export const dataTestimonials = [
     {
-        // id: 1,
-        // name: "George Snow",
-        // description:
-        //     "¡Increíble plataforma! Los testimonios aquí son genuinos y me han ayudado a tomar decisiones informadas. ¡Altamente recomendado!",
-        // imageUrl: "/profile1.png",
+        id: 1,
+        name: "...",
+        description:
+            "...",
+        imageUrl: "...",
     },
 ];
