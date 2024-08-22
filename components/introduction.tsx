@@ -26,10 +26,10 @@ const Introduction = () => {
                         />
                     </h1>
 
-                    <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                        Code is like humor. When you have to explain it, it's bad.
+                    <p className="mx-auto mb-1 text-xl md:text-xl md:mx-0 md:mb-1">
+                    &#34;Code is like humor. When you have to explain it, it&#39;s bad.&#34;
                     </p>
-                    <p>
+                    <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
                         Cory House.
                     </p>
 
