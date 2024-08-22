@@ -26,11 +26,8 @@ const Introduction = () => {
                         />
                     </h1>
 
-                    <p className="mx-auto mb-1 text-xl md:text-xl md:mx-0 md:mb-1">
-                        "Code is like humor. When you have to explain it, it's bad."
-                    </p>
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                    -Cory House.
+                        "Code is like humor. When you have to explain it, it's bad."
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
